@@ -1,3 +1,5 @@
+
+## Milestone Assignment 2: Principal Component Analysis
 # PCA Analysis on Breast Cancer Dataset
 
 ## Overview
@@ -33,6 +35,8 @@ The dataset also includes a target variable indicating the diagnosis:
 1 → Benign (non-cancerous)
 
 
-## Execute the code with below command:
-  # python pca_cancer_analysis.py
-# BAN6420_Milestone_Assignment_2
+# Execute the code with below command:
+  python pca_cancer_analysis.py
+
+
+# Prince Nsidibe
